@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt" //ninja 6.6, 6.7, 6.8
 
 type countDown struct {
 	current int
